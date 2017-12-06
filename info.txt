@@ -1,0 +1,20 @@
+El programa se esta ejecutando...
+Inicio Programa: 29/09/17 03:07:07
+
+iFechaFin: 20170929
+
+[restarDias]error: java.lang.NullPointerException
+[restarDias]error: java.lang.NullPointerException
+sFechaIni: null
+
+sFechaFin: null
+
+Pausa para Eliminar ECOMMERCE_SOPORTE_VENTA sleep(60 seg)
+[Ini paso 1]
+registros eliminados de BJPROYEC.JPDNOVRET: 22115
+[Fin paso 1]
+Archivos creados.
+
+Fin Programa: 29/09/17 03:07:07
+
+El programa finalizo.
