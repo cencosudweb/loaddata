@@ -25,7 +25,7 @@ import java.util.Map;
 /**
  * @description 
  */
-public class LoadData {
+public class LoadDataTrazabilidad {
 	
 	private static final int DIFF_HOY_FECHA_INI = 1;
 	private static final int DIFF_HOY_FECHA_FIN = 1;
